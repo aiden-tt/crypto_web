@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   id="katman_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 500 500"
+   xml:space="preserve"
+   sodipodi:docname="solana.svg"
+   width="500"
+   height="500"
+   inkscape:export-filename="1solana.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showguides="true"
+   inkscape:zoom="0.9949104"
+   inkscape:cx="279.92471"
+   inkscape:cy="211.07428"
+   inkscape:window-width="1440"
+   inkscape:window-height="884"
+   inkscape:window-x="0"
+   inkscape:window-y="16"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="katman_1"><sodipodi:guide
+     position="0,250"
+     orientation="0,-1"
+     id="guide3"
+     inkscape:locked="false" /><sodipodi:guide
+     position="250,500"
+     orientation="1,0"
+     id="guide4"
+     inkscape:locked="false" /></sodipodi:namedview>
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#232323;}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="300.54901"
+   y1="184.6306"
+   x2="547.98389"
+   y2="425.52869"
+   gradientTransform="matrix(1,0,0,-1,-174.63982,555.0122)">
+	<stop
+   offset="0"
+   style="stop-color:#CF41E8"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#10F2B0"
+   id="stop2" />
+</linearGradient>
+<circle
+   style="fill:#000000;stroke-width:1.05464"
+   id="path3"
+   cy="250"
+   cx="250"
+   r="250" /><path
+   class="st1"
+   d="m 350.60508,188.15 c -0.8,0.9 -1.8,1.6 -2.9,2 -1.1,0.5 -2.3,0.7 -3.5,0.7 h -226.5 c -8,0 -12.1,-10 -6.5,-16 l 37.2,-39.5 c 0.8,-0.9 1.8,-1.6 3,-2.1 1.1,-0.5 2.3,-0.7 3.5,-0.7 h 227.4 c 8.1,0 12.1,10.1 6.4,16.1 z m 0,176.6 c -1.7,1.7 -4,2.7 -6.4,2.7 h -226.5 c -8,0 -12.1,-9.8 -6.5,-15.6 l 37.2,-38.6 c 0.8,-0.9 1.9,-1.6 3,-2 1.1,-0.5 2.3,-0.7 3.5,-0.7 h 227.4 c 8.1,0 12.1,9.9 6.4,15.7 z m 0,-140.5 c -1.7,-1.7 -4,-2.7 -6.4,-2.7 h -226.5 c -8,0 -12.1,9.8 -6.5,15.6 l 37.2,38.6 c 0.8,0.9 1.9,1.6 3,2 1.1,0.5 2.3,0.7 3.5,0.7 h 227.4 c 8.1,0 12.1,-9.9 6.4,-15.7 z"
+   id="path2"
+   style="fill:url(#SVGID_1_)" />
+</svg>
