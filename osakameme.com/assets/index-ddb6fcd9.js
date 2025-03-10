@@ -14379,12 +14379,12 @@ const nA = () => {
                         className: "nav-dropdown-link",
                         children: "GUERILLA KIT",
                       }),
-                      O("a", {
-                        href: "https://github.com/osakaprotocol",
-                        target: "_blank",
-                        className: "nav-dropdown-link",
-                        children: "GITHUB",
-                      }),
+                      // O("a", {
+                      //   href: "https://github.com/osakaprotocol",
+                      //   target: "_blank",
+                      //   className: "nav-dropdown-link",
+                      //   children: "GITHUB",
+                      // }),
                     ],
                   }),
                 ],
@@ -53279,7 +53279,7 @@ const pse = (e) =>
               children: "I FEEL BETTER",
             }),
             O("a", {
-              href: "https://t.me/Osakaprotocol",
+              href: "",
               target: "_blank",
               className: "button join-us",
               children: "JOIN US",
